@@ -1,1 +1,1 @@
-# FruitCatcher-2
+# fruitCatcher2
